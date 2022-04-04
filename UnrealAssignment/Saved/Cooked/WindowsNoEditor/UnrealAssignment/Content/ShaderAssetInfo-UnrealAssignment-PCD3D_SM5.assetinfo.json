@@ -52,6 +52,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -61,12 +67,6 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -297,12 +297,6 @@
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
-			"Assets": [
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/StarterContent/Materials/M_Basic_Wall.uasset"
 			]
 		},
 		{
@@ -600,6 +594,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
 			"Assets": [
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/StarterContent/Materials/M_Basic_Floor.uasset"
@@ -663,9 +663,9 @@
 		{
 			"ShaderMapHash": "E58DF576AA3B6D921CD8535FAB71B9EAF8955F65",
 			"Assets": [
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_StatueHorn.uasset",
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_AngelStatue.uasset",
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_Statue01.uasset",
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_AngelStatue.uasset",
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_StatueHorn.uasset",
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_WomanStatue.uasset",
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_Vases.uasset",
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_TreasureGreen.uasset",
@@ -707,15 +707,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C73765D08D5E3DE71EDE658C4D703BC5DDEB0456",
+			"Assets": [
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_DamagedWall.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "83CC6FB960EF114A33EE13E38D7237DE3B4118F1",
 			"Assets": [
 				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "C73765D08D5E3DE71EDE658C4D703BC5DDEB0456",
+			"ShaderMapHash": "863798EF1DCBD4E61D4574D057AD1F8278CB664C",
 			"Assets": [
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_DamagedWall.uasset"
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/ThirdPersonBP/Models/AmmoBox.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Geometry/Meshes/CubeMaterial.uasset"
 			]
 		},
 		{
@@ -758,15 +770,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
-			"Assets": [
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/StarterContent/Props/Materials/M_Rock.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "6BFEF782459443C458D7B5ACDD0A19A73B091DDA",
 			"Assets": [
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Materials/M_UN_Rock_SM_Cliffs01_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
+			"Assets": [
+				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/StarterContent/Props/Materials/M_Rock.uasset"
 			]
 		},
 		{
@@ -1038,12 +1050,6 @@
 			"ShaderMapHash": "2D9DF6920C665C4F9E3D35DD7D314CFE9F532394",
 			"Assets": [
 				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Infinity_Blade_Assets/Maps/LevelContent/Architecture/M_CycRoom_01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
-			"Assets": [
-				"C:/Users/davem/Documents/GitHub/UnrealAssignment/UnrealAssignment/Content/Geometry/Meshes/CubeMaterial.uasset"
 			]
 		}
 	]
